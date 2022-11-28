@@ -9,7 +9,7 @@
 "education":
 [
   "University Of Bedfordshire - Electronic Engineering",
-  "Self-Taught Developer(Or trying to be)"
+  "On My Way To Become a Self-Taught Developer"
 ],
 "company": "Multilogin",
 
