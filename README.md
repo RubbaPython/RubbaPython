@@ -18,7 +18,7 @@
   "Web Development",
   "UI/UX",
   "BackEnd Development",
-  "FrontEnd Development"
+  "FrontEnd Development",
   "Data Science"
 ],
 
