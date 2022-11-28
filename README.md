@@ -5,7 +5,7 @@
 {
 "name": "Ilya Stserbina",
 "located_in": "Tallinn, Estonia",
-"current_job": "Technical Support Specialist",
+"current_job": "Technical Support Engineer",
 "education":
 [
   "University Of Bedfordshire - Electronic Engineering",
