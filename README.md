@@ -46,7 +46,7 @@
 
 "future_goals":
 [
-  "Create more project",
+  "Create more meaningful projects",
   "Develop a good undestanding of MERN stack",
   "Become a better version of myself",
   "Start doing contributions"
