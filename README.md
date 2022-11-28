@@ -46,9 +46,10 @@
 
 "future_goals":
 [
-  "Create more project with NodeJS",
+  "Create more project",
   "Develop a good undestanding of MERN stack",
-  "Become a better version of myself"
+  "Become a better version of myself",
+  "Start doing contributions"
 ]
 
 }
