@@ -5,51 +5,33 @@
 {
 "name": "Ilya Stserbina",
 "located_in": "Tallinn, Estonia",
-"current_job": "Technical Support Engineer",
+"current_job": "Junior Software Engineer",
 "education":
 [
-  "University Of Bedfordshire - Electronic Engineering",
-  "On My Way To Become a Self-Taught Developer"
+  "University Of Bedfordshire - Electronic Engineering"
 ],
-"company": "Multilogin",
+"company": "Iute Group",
 
 "fields_of_interests":
 [
   "Web Development",
   "UI/UX",
   "BackEnd Development",
-  "FrontEnd Development",
-  "Data Science"
-],
-
-"currently_learning":
-[
-  "NodeJS",
-  "ReactJS",
-  "Express"
-],
+  "FrontEnd Development"
+]
 
 "technical_background":
 [
   "In University": "Hands-on Experience with Python, Java",
-  "At work": "Experience with NodeJS, Python, Selenium"
+  "At work": "Experience with NodeJS, Python, Selenium, Java/Spring, PSQL, Docker, Kuber, VueJS"
 ],
 
 "hobbies":
 [
   "Gaming",
   "Watching Movies",
-  "Playing Electric Guitar",
   "Reading",
   "I Like Ducks" 🦆
-],
-
-"future_goals":
-[
-  "Create more meaningful projects",
-  "Develop a good undestanding of MERN stack",
-  "Become a better version of myself",
-  "Start doing contributions"
 ]
 
 }
